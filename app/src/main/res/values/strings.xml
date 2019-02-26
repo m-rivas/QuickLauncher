@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickLauncher</string>
+    <string name="bluetooth_activity">BlueTooth Module</string>
+    <string name="text_message_activity">Text Message Activity</string>
+    <string name="send_button">Send</string>
+    <string name="google_button">Google</string>
+</resources>
