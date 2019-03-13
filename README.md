@@ -13,3 +13,6 @@ This is the first module ever made. It's main goal was to display all devices th
 Eventually, an aruino
 
 ## Log
+
+## Possibilities
+- connect to raspberry pi zero w/ camera to check on Otto
