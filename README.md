@@ -15,5 +15,5 @@ Eventually, an aruino
 ## Log
 
 ## Possibilities
-- [] List all bluetooth and/or wifi devices and their information
-- [] connect to raspberry pi zero w/ camera to check on Otto
+- [ ] List all bluetooth and/or wifi devices and their information
+- [ ] connect to raspberry pi zero w/ camera to check on Otto
