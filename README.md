@@ -12,6 +12,9 @@ Main Activity is the home page of the app. As of now, buttons will kick off diff
 This is the first module ever made. It's main goal was to display all devices the phone was bonded to. A RecylcerView is used to display the list of device names.
 Eventually, an aruino
 
+#### Raspberry Pi Camera Module
+Future module will be designed to view a live feed of the Raspberry Pi camera
+
 ## Log
 - February 25:  Initial commit and added bluetooth permission requests
 - 
