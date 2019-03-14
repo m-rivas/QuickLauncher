@@ -13,6 +13,8 @@ This is the first module ever made. It's main goal was to display all devices th
 Eventually, an aruino
 
 ## Log
+- February 25:  Initial commit and added bluetooth permission requests
+- 
 
 ## Possibilities
 - [ ] List all bluetooth and/or wifi devices and their information
